@@ -1,0 +1,19 @@
+Virtual env workflow
+
+# Install virtualenv
+python3 -m pip install —user virtualenv
+
+# Create new virtual environment
+python3 -m virtualenv env_name
+
+# Activate the Virtual Environment
+source env_name/bin/activate
+
+# Install Jupyter Notebook
+pip3 install jupyterlab notebook
+
+# Create a Jupyter Kernel
+python3 -m ipykernel install —user —name=env
+
+# Start Jupyter Notebook
+jupyter notebook

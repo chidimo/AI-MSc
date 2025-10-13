@@ -10,7 +10,7 @@ python3 -m virtualenv env_name
 source env_name/bin/activate
 
 # Install Jupyter Notebook
-pip3 install jupyterlab notebook
+pip3 install jupyter notebook
 
 # Create a Jupyter Kernel
 python3 -m ipykernel install —user —name=env

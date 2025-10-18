@@ -5,3 +5,5 @@ __pycache__
 .eggs
 **.ipynb_checkpoints
 .DS_Store
+cats_and_dogs_filtered/
+cats_and_dogs_filtered.zip

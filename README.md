@@ -13,4 +13,4 @@
 
 ## [Titanic Survival Analysis](./MLDM%20-%20Titanic%20Survivor%20Analysis.ipynb)
 
-![Titanic Survival Analysis](./titanic-analysis.png)
+![Titanic Survival Analysis](./data/titanic-analysis.png)
